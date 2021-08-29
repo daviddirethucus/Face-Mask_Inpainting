@@ -4,7 +4,7 @@ import cv2
 import numpy as np
 import os
 import imghdr
-import base64
+
 import pandas as pd
 from Unet_I import binary_unet
 from Unet_II import inpaint_unet
