@@ -1,7 +1,8 @@
 # Face-Mask Inpainting
 
-<img src="info_imgs/test1.jpg" align="left" width="300px" >
-<img src="info_imgs/test1.gif" align="right" width="300px" > 
+| | |
+|:-------------------------:|:-------------------------:|
+|<img src="info_imgs/test1.jpg" alt="screen" width="300px" > | <img src="info_imgs/test1.gif" alt="screen" width="300px" > |
 
 
 This project attempted to achieve the paper **[A novel GAN-based network for unmasking of 
