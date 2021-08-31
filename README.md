@@ -1,6 +1,6 @@
 # Face-Mask Inpainting
 
-<img src="info_imgs/test1.gif" width="400"px >
+<img src="info_imgs/test1.gif" width="400px" >
 
 This project attempted to achieve the paper **[A novel GAN-based network for unmasking of 
 masked face](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9019697)**. The model 
