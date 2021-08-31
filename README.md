@@ -2,8 +2,8 @@
 
 | | |
 |:-------------------------:|:-------------------------:|
-|<img src="info_imgs/test1.jpg" alt="screen" width="300px" > | <img src="info_imgs/test1.gif" alt="screen" width="250px" > |
-|<img src="info_imgs/test2.jpg" alt="screen" width="300px" > | <img src="info_imgs/test2.gif" alt="screen" width="250px" > |
+|<img src="info_imgs/test1.jpg" alt="screen" width="250px" > | <img src="info_imgs/test1.gif" alt="screen" width="250px" > |
+|<img src="info_imgs/test2.jpg" alt="screen" width="250px" > | <img src="info_imgs/test2.gif" alt="screen" width="250px" > |
 
 
 This project attempted to achieve the paper **[A novel GAN-based network for unmasking of 
