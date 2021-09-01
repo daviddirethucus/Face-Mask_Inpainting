@@ -63,12 +63,10 @@ Copy the **Local URL** / **Network URL** and view it in your browser.
 ## Paper References
 - [A novel GAN-based network for unmasking of masked face](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9019697)
 - [Generation of Realistic Facemasked Faces With GANs](http://cs230.stanford.edu/projects_winter_2021/reports/70681837.pdf)
-˙˙˙
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
 - [Squeeze-and-Excitation Networks](https://arxiv.org/pdf/1709.01507.pdf)
 - [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/pdf/1706.05587.pdf)
 - [Language Modeling with Gated Convolutional Networks](https://arxiv.org/pdf/1612.08083.pdf)
-˙˙˙
 - [Image Quality Assessment: From Error Visibility to Structural Similarity](https://www.cns.nyu.edu/pub/lcv/wang03-preprint.pdf)
 - [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/pdf/1603.08155.pdf)
 
