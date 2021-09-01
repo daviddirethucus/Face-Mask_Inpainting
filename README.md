@@ -35,7 +35,7 @@ can be taken to download and run the Face-mask inpainting streamlit webapp on lo
 git clone https://github.com/daviddirethucus/Face-Mask_Inpainting.git
 ```
 ### Download the trained models
-Since it is not permissable to push the model which is larger than 100MB on Github, so we provide a link to download our trained Facemask Inpainting models: **[Here](https://drive.google.com/drive/folders/1l-5ntQyPi4hy1oc_3BHHTNCY4w4nzfEk?usp=sharing)**
+Since it is not permissable to push the model which is larger than 100MB on Github, so we provide a link to download our trained Facemask Inpainting models: **[Here](https://drive.google.com/drive/folders/1l-5ntQyPi4hy1oc_3BHHTNCY4w4nzfEk?usp=sharing)** \n
 **The path of the trained models should be located at: **
 ```
 /Face-Mask_Inpainting/models
