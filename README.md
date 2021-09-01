@@ -52,6 +52,8 @@ pip install -r requirements.txt
 cd Face-Mask_Inpainting
 streamlit run main.py
 ```
+Copy the **Local URL** / **Network URL** and view it in your browser.
+<img src="info_imgs/terminal_s.png" alt="screen" width="400px" >
 
 ## Related Project
 
