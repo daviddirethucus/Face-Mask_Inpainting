@@ -53,7 +53,10 @@ cd Face-Mask_Inpainting
 streamlit run main.py
 ```
 Copy the **Local URL** / **Network URL** and view it in your browser.
-<img src="info_imgs/terminal_s.png" alt="screen" width="400px" >
+<img src="info_imgs/terminal_s.png" alt="screen" width="500px" >
+
+### Demo
+|<img src="info_imgs/demo1.png" alt="screen" width="300px" > | <img src="info_imgs/demo2.png" alt="screen" width="300px" > |
 
 ## Related Project
 
