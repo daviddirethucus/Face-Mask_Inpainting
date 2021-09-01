@@ -28,6 +28,19 @@ with two discriminators using masked image and binary segmentation map.
 - For creating the masked images, we use **[MaskTheFace](https://github.com/aqeelanwar/MaskTheFace)** to masking the ground truth. 
 
 ## Get Started
+It is recommended to mask a **[new virtual environment](https://towardsdatascience.com/manage-your-python-virtual-environment-with-conda-a0d2934d5195)** with **Python 3.8** and install the dependencies. Following steps
+can be taken to download and run the Face-mask inpainting streamlit webapp on local host
+### Clone the repository
+```
+git clone https://github.com/daviddirethucus/Face-Mask_Inpainting.git
+```
+### Download the trained models
+Since it is not permissable to push the model which is larger than 100MB on Github, so we provide a link to download our trained Facemask Inpainting models. **[Here](https://drive.google.com/drive/folders/1l-5ntQyPi4hy1oc_3BHHTNCY4w4nzfEk?usp=sharing)**
+### Install required packages
+The provided requirements.txt file consists the essential packages to install. Use the following command
+```
+cd Face-Mask_Inpainting
+```
 
 ## Related Project
 
