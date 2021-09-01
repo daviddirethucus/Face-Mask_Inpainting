@@ -45,6 +45,12 @@ The path of the trained models should be located at:
 The provided requirements.txt file consists the essential packages to install. Use the following command
 ```
 cd Face-Mask_Inpainting
+pip install -r requirements.txt
+```
+### Run the stremalit webapp
+```
+cd Face-Mask_Inpainting
+streamlit run main.py
 ```
 
 ## Related Project
