@@ -27,6 +27,8 @@ with two discriminators using masked image and binary segmentation map.
 - For collecting the ground truth, we use **[Flickr-Faces-HQ Dataset (FFHQ)](https://github.com/NVlabs/ffhq-dataset)**.
 - For creating the masked images, we use **[MaskTheFace](https://github.com/aqeelanwar/MaskTheFace)** to masking the ground truth. 
 
+In this work, I used around 4k paired images for training map module model, and around 20k images for training editing module model.
+
 ## Get Started
 It is recommended to make a **[new virtual environment](https://towardsdatascience.com/manage-your-python-virtual-environment-with-conda-a0d2934d5195)** with **Python 3.8** and install the dependencies. Following steps
 can be taken to download and run the Face-mask inpainting streamlit webapp on local host
